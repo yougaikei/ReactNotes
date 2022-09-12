@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// 解析出  path 中的 resolve 参数
+// 解析出 path 中的 resolve 参数
 import { resolve } from 'path'
 
 // https://vitejs.dev/config/
